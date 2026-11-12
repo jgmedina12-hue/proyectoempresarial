@@ -1,6 +1,6 @@
 # ETHOS landing page
 
-Landing page for **ETHOS**, a digital marketing agency with a "Growth Partner" model for small businesses (MIPYMES) in the Bucaramanga metropolitan area, Colombia. It is a university project (Universidad de Investigación y Desarrollo, October 2026) by Jose Gabriel Medina Pedraza, Karen Daniela Duran Pabon, Jesus David Barcenas Vargas and Yerman Deyron Restrepo Rugeles.
+Landing page for **ETHOS**, a digital marketing agency with a "Growth Partner" model for small businesses (MIPYMES) in the Bucaramanga metropolitan area, Colombia. It is a university project (Universidad de Investigación y Desarrollo, October 2026). Since November 2026 the team has three members: Jose Gabriel Medina Pedraza (data analyst and web), Jesus David Barcenas Vargas (general manager and sales) and Yerman Deyron Restrepo Rugeles (digital strategy, design and content). Karen Daniela Duran Pabon (community manager) co-authored the first two cuts and then left the project; her role moved to Yerman's area.
 
 **The page has one goal:** get a business owner to book a **free digital diagnosis** (20 min, virtual, no commitment), where ETHOS then sells its monthly plans. Every section should push toward the "Agendar una consulta gratis" button. All site copy is in **Spanish (Colombia)**, in a close, plain, professional tone.
 
@@ -8,8 +8,8 @@ Landing page for **ETHOS**, a digital marketing agency with a "Growth Partner" m
 
 - `Plan_Negocio_ETHOS.pdf`: business plan (problem, services, mission, team, brand, demand survey results).
 - `ETHOS_Estrategia_Comercial.pdf`: commercial strategy (target customer, value proposition, plans and prices, funnel, KPIs, full demand survey).
-- `Plan_Negocio_ETHOS_Final.docx` (and `.pdf`): final business plan for the third cut, in APA 7 format. It carries over sections 1–9 and adds 10 administrative (org chart, talent management), 11 technical (production process), 12 financial (simulator results), 13.1 risks, 13.2 social contribution and 14 conclusions.
-- `Simulador_Financiero_ETHOS.xlsx`: the class financial simulator filled with ETHOS data, with live formulas (inputs are the yellow cells). Base case: initial investment $15,25M, partner contributions $30M, break-even at about 7.5 active clients (month 8), VAN at 10 % of $86,1M, TIR of 151.6 % over 3 years.
+- `Plan_Negocio_ETHOS_Final.docx` (and `.pdf`): final business plan for the third cut, in APA 7 format, for the three-member team. It carries over sections 1–9 and adds 10 administrative (org chart, talent management), 11 technical (production process), 12 financial (simulator results), 13.1 risks, 13.2 social contribution and 14 conclusions. The course name and instructor on the cover are yellow placeholders that the user fills in.
+- `Simulador_Financiero_ETHOS.xlsx`: the class financial simulator filled with ETHOS data, with live formulas (inputs are the yellow cells). The user approved all its assumptions as final. Base case: initial investment $15,25M, partner contributions $30M ($10M per partner), break-even at about 6.7 active clients (month 7), payback in 12 months, VAN at 10 % of $112,0M, TIR of 188 % over 3 years.
 - `Neon ETHOS Digital Marketing Badge.png`: circular logo.
 - `Post 1 – Gancho.png`, `Post 2 – Método.png`, `Post 3 – Diagnóstico gratis.png`, `ETHOS_ Estrategia digital para crecer.png`: Instagram pieces. These are the visual reference for the site.
 
