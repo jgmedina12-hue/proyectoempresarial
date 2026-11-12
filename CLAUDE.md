@@ -8,6 +8,8 @@ Landing page for **ETHOS**, a digital marketing agency with a "Growth Partner" m
 
 - `Plan_Negocio_ETHOS.pdf`: business plan (problem, services, mission, team, brand, demand survey results).
 - `ETHOS_Estrategia_Comercial.pdf`: commercial strategy (target customer, value proposition, plans and prices, funnel, KPIs, full demand survey).
+- `Plan_Negocio_ETHOS_Final.docx` (and `.pdf`): final business plan for the third cut, in APA 7 format. It carries over sections 1–9 and adds 10 administrative (org chart, talent management), 11 technical (production process), 12 financial (simulator results), 13.1 risks, 13.2 social contribution and 14 conclusions.
+- `Simulador_Financiero_ETHOS.xlsx`: the class financial simulator filled with ETHOS data, with live formulas (inputs are the yellow cells). Base case: initial investment $15,25M, partner contributions $30M, break-even at about 7.5 active clients (month 8), VAN at 10 % of $86,1M, TIR of 151.6 % over 3 years.
 - `Neon ETHOS Digital Marketing Badge.png`: circular logo.
 - `Post 1 – Gancho.png`, `Post 2 – Método.png`, `Post 3 – Diagnóstico gratis.png`, `ETHOS_ Estrategia digital para crecer.png`: Instagram pieces. These are the visual reference for the site.
 
