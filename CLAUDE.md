@@ -30,6 +30,8 @@ Static HTML, CSS and vanilla JS, with no framework and no build step. Any static
 
 **Run locally:** start the `ethos-site` entry in `.claude/launch.json`, which serves `site/` at http://localhost:5173 with Python's `http.server`.
 
+**Class demo copy:** published as a claude.ai artifact (https://claude.ai/artifact/R75ibeL4DM411tcn97HVxd, private until the user shares it) and linked by QR from the presentation deck. It is built from `site/` with only these changes: the page file has no doctype, `html`, `head` or `body` tags and no viewport meta (the artifact wraps it), the title is "ETHOS Growth Partner", `:root` sets `color-scheme: dark`, links to the data policy open in a new tab, and the survey's last step drops `window.open` (blocked in artifacts) and shows the "Abrir WhatsApp" link plus the number as text. Rebuild it after changing `site/`.
+
 ## Booking flow (agreed with the user)
 
 1. The visitor clicks any `[data-open-survey]` button. This opens the survey dialog.
@@ -61,7 +63,7 @@ How the survey behaves:
 
 ## Pending before launch
 
-- [ ] Real WhatsApp Business number in `site/js/config.js` (currently the placeholder `570000000000`).
+- [x] WhatsApp number in `site/js/config.js`: Jose's mobile, set in November 2026 (swap it for a WhatsApp Business line when there is one).
 - [ ] Replace `politica-de-datos.html` with ETHOS's official data policy (Ley 1581 de 2012); it has a contact email placeholder.
 - [ ] Choose hosting and a domain; set the absolute `og:image` URL once the domain is known.
 - [ ] Optional: analytics or Meta Pixel (the `dataLayer` events are ready), real team photos, success stories after the pilot clients.
